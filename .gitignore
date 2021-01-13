@@ -1,2 +1,8 @@
+# Ignore config files
 /config.json
+
+# Ignore environment folders
 /env/
+
+# Ignore IDE project folders
+/.idea/
